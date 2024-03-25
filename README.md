@@ -15,7 +15,8 @@ Correlations between cumulative average filmmaker IMDB score and the IMDB score 
 Scatter plot showing the Predicted Vs. Actual Values from the Linear Regression Model
 ![Screenshot 2024-03-24 224625](https://github.com/Vladboy2/EECS3401FinalProject/assets/77248716/c0f75657-6a3a-44af-a4df-43c463c59dfc)
 
-Performance Comparion between the Three Models
+Performance Comparion between the Three Models:
+
 ![Screenshot 2024-03-24 224730](https://github.com/Vladboy2/EECS3401FinalProject/assets/77248716/6aee6b49-f1b5-4863-a690-f069bbb5667d)
 
 ## Conclusion
