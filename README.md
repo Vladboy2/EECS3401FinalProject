@@ -3,9 +3,9 @@
 In this project, the goal is to predict what the general public might rate a movie or show on IMDB. Movies and shows were gathered from the Netflix streaming site and the ratings used to train the models were gathered from IMDB. All of this data can be found in the datasets folder.
 The highest correlations were between the average IMDB rating of a movie or show was with the overall cumulative IMDB score average of all the filmmakers based on their other works. 
 ## Models Used
-[*] Linear Regression
-[*] Ridge Regression
-[*] Lasso Regression
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
 The best performing model was the Linear Regression model.
 ## Some EDAs Analyzed
 Correlations between cumulative average filmmaker IMDB score and the IMDB score of specific Movie or Show 
