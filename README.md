@@ -20,4 +20,4 @@ Performance Comparion between the Three Models:
 ![Screenshot 2024-03-24 224730](https://github.com/Vladboy2/EECS3401FinalProject/assets/77248716/6aee6b49-f1b5-4863-a690-f069bbb5667d)
 
 ## Conclusion
-The models weren't able to determine a close enough rating to the actual rating of each respective movie or show in the testing set. This can be a number of things, such other variables and attributes not considered in training the models. With more research this can be corrected. Overall, this shows that movies and shows are still very much subjectif and no number of factors can predict what viewers might rate a movie or show to be.
+The models weren't able to determine a close enough rating to the actual rating of each respective movie or show in the testing set. This can be due to a number of factors, such as other variables and attributes not considered in training the models. With more research this can be corrected. Overall, this shows that movies and shows are still very much subjective and no number of factors can predict what viewers might rate a movie or show to be.
